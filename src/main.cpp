@@ -4,7 +4,7 @@
 
 int main(int argc, char **argv)
 {
-	printf("hello world\n");
+	printf("hello world from github\n");
 	return 0;
 }
 
