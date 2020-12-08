@@ -5,6 +5,7 @@
 void new_feature()
 {
 	printf("Hello this is new feature...\n");
+	printf("More feature work...\n");
 }
 
 int main(int argc, char **argv)
